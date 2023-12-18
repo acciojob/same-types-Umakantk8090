@@ -4,7 +4,7 @@ function isSameType(value1, value2) {
 	let value2="hello"
 	
 }
-isSameType();
+isSameType("hey","hello");
 
 // do not change the code below.
 let value1 = prompt("Enter Start of the Range.");
